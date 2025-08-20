@@ -79,3 +79,7 @@ This project is licensed under the MIT License.
 
 ## Author
 Ajay Tiwari (BTech- Computer Science and Engineering (Artificial Intelligence): 2022 - 2026)
+
+
+## ⚠️ Disclaimer: 
+This tool is for educational and research purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for any medical concerns.
