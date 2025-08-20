@@ -4,7 +4,7 @@
 This project is an AI-powered medical diagnostic assistant built with Google Gemini API and Streamlit. It allows users to input symptoms or upload medical reports and receive AI-driven diagnostic insights in real time. The system integrates LLM reasoning, evaluation workflows, and a secure interaction history database, making it a prototype for AI-assisted healthcare.
 ##  Live Demo
 Try the Medical-AI-Agent system here:
-[Medical-AI-Agent System — Hugging Face Space]([(https://github.com/AjayTiwari94/Medical-AI-Agents)])
+[Medical-AI-Agent System — Hugging Face Space](https://huggingface.co/spaces/AjayTiwari94/AI-Medical-Diagnostic-Agent)
 
 
 ## Features
